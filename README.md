@@ -211,26 +211,3 @@ Durante la ejecución del laboratorio se presentaron las siguientes complicacion
 * **Curso / Sección:** Ingeniería Web
 * **Profesor:** Ing. Irina Fong
 * **Repositorio del proyecto:** [Login-laravel](https://github.com/rickigad/Login-laravel.git)
-
----
-
-### Notas finales
-
-* Verifica que `composer.lock`, `package-lock.json` y los respaldos no contengan información sensible antes de subirlos al repositorio público.
-* Asegúrate de que la carpeta `docs/` con las capturas esté en el repositorio para que las imágenes se visualicen correctamente en GitHub.
-
-
-### Notas finales
-
-* Acomoda las rutas de imágenes y del respaldo de la base de datos en el repositorio antes de enlazarlas en el README.
-* Verifica que `composer.lock`, `package-lock.json` y los respaldos no contengan información sensible antes de subirlos al repositorio público.
-
----
-
-**Si deseas, puedo**:
-
-* Personalizar el README con tu nombre, correo, captura de pantalla y el backup de la BD (si me proporcionas los archivos),
-* Generar el archivo `backup_nombre_lab.sql` (si me das snapshot/DB export),
-* Ajustar el README a otro formato (por ejemplo incluir badges, iconos de tecnologías o plantilla visual).
-
-¡Listo! Revisa el contenido y dime si quieres que lo adapte con tus datos reales (nombre, correo, capturas y backup).
