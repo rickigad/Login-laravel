@@ -154,10 +154,6 @@ A continuación se incluyen las capturas extraídas del informe en Word, mostran
 ![Pantalla 9](docs/image_13.png)
 ![Pantalla 10](docs/image_14.png)
 ![Pantalla 11](docs/image_15.png)
-![Pantalla 12](docs/image_16.png)
-![Pantalla 13](docs/image_18.png)
-![Pantalla 14](docs/image_19.png)
-![Pantalla 15](docs/image_20.png)
 
 ---
 
